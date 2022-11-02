@@ -1,8 +1,8 @@
 {
-  "name": "scripts",
+  "name": "@sebammon/run-me",
   "version": "1.0.0",
   "main": "cli.js",
-  "license": "MIT",
+  "author": "Sebastian Ammon",
   "bin": {
     "run": "cli.js"
   },
@@ -14,5 +14,18 @@
   },
   "devDependencies": {
     "prettier": "^2.7.1"
-  }
+  },
+  "description": "A CLI bin to execute scripts in one place.",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebammon/scripts.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebammon/scripts/issues"
+  },
+  "homepage": "https://github.com/sebammon/scripts#readme"
 }
