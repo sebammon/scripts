@@ -1,5 +1,5 @@
 {
-  "name": "@sebammon/run-me",
+  "name": "@sebammon/scripts",
   "version": "1.0.0",
   "main": "cli.js",
   "author": "Sebastian Ammon",
